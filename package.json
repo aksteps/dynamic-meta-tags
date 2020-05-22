@@ -1,0 +1,23 @@
+{
+  "name": "dynamic-meta-tags",
+  "version": "1.0.0",
+  "description": "Dynamic meta tags without server side rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aksteps/dynamic-meta-tags.git"
+  },
+  "keywords": [
+    "meta",
+    "tags"
+  ],
+  "author": "Aakash Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aksteps/dynamic-meta-tags/issues"
+  },
+  "homepage": "https://github.com/aksteps/dynamic-meta-tags#readme"
+}
